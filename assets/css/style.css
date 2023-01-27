@@ -1,0 +1,29 @@
+body {
+    padding-left: 40%;
+    padding-top: 5%;
+    margin-bottom: 5%;
+    margin-top: 3px;
+    justify-content: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: x-large;
+}
+
+#sendbutton {
+    background-color: rgb(8, 204, 50);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    text-align: right;
+    
+}
+
+form div {
+    margin: 15px 0;
+
+}
+
+form {
+    margin:auto
+}
